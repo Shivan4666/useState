@@ -1,0 +1,11 @@
+button {
+  color: white;
+  background-color: rgb(12, 93, 124);
+  border-radius: 20px;
+  margin: 20px;
+  padding: 20px;
+}
+
+div {
+  background-color: thistle;
+}
